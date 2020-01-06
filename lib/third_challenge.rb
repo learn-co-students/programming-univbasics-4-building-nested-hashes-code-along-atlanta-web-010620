@@ -2,8 +2,10 @@ def third_challenge
   epic_tragedy = {
    :montague => {
       :patriarch => {
-        #your key/value pairs here
+        'Michael Jordan'
         },
+        puts epic_tragedy
+        
       :matriarch => {
         #your key/value pairs here
         },
